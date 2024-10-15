@@ -1,4 +1,11 @@
 ## Hi there 👋
+### First time here on github (2024)
+### I study music but as a hobby and great passion i explore many braches of tech content, programming, virtualization❤️ etc... 
+### Proud user of linux, after i discovered it thanks to the steam deck that i bought 1 year ago
+### After that slowly but constantly i begun converting to it, realizing more and more how windows has been holding me back
+### Now i run a desktop whit Mint and a laptop whit Tumbleweed, but this could change beacouse i am very courious
+### i am trying to build a sort of homelab to achive a totally self hosted array of services
+
 
 <!--
 **Vik1977/Vik1977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
