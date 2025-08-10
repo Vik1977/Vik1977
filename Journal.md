@@ -21,16 +21,20 @@ Thanks to this i learned about <mark>**linux**</mark>, **SteamOS based on arch**
 so as i was exploring, tweaking and watching many many tutorials,my understanding growed exponetially  
 Shortly after, i got an old laptop from my grandma, a Thoshiba(?), which obviusly could not run windows so i installed linux (Mint) on it, and it was stunning, with an SSD and linux that old computer became fairly usable compared to the choppy windows expirience, with the power of Open-Source and community work.  
  As i countinued gathering information, i stumbled upon the Harvard course: CS50, on youtube, i watched only the first videos beacause after that it was getting a little bit too complicated (i'm looking to come back to that). But even that little theory thoat i got from the introdution helped me have clearer ideas.
-###### *By the way they have a site called EDX where you can find the free lesson. nd not only about computer sience, make the assignments, and even, for a small price get a certificate.
-### Then i started even telling my mom to ask all the people the she knows if they had old or broken hardweare
-### that i could take, disassemble, clean them, put them back toghether.
-### And then? Then i got a pile of, practically, rubbish in my home that i didn't know how to use
-### so i started searching, to fix the problem, some of the things needed to do a sotering work to be usable
-### so i put them aside for the moment, or trown them out if they were the most random things.
-### I started working on the most easy things, the functioning devices like the computers,
-### by the time of writing at home i have 6 laptops, 2 desktops, the steam deck, a xbox 360 and may routers
+
+###### *By the way they have a site called EDX where you can find the free lesson. nd not only about computer sience, make the assignments, and even, for a small price get a certificate.*
+
+Then i had a brilliant idea, how to get more computers for free? Trough my mom I asked all the people the she knows if they had old or broken hardware that i could take, disassemble, clean them, put them back toghether.  
+ And then? Then i got a pile of, practically, rubbish in my home that i didn't know how to use, so i started researching, to fix the problems, some of the things needed to do a sotering work to be usable, so i put them aside for the moment, or trown them out if they were the most random things.  
+I started working on the most easy things, the functioning devices like the computers.
+
+November 2024: By the time of writing at home i have 6 laptops, 2 desktops, the steam deck, a xbox 360 and many routers
  P.S. I need more desktops   
- EDIT: i got too much desktops
-### After a bit of resarch i found that to make a little home server you don't need a so powerful PC, at least to start,
-### so firstly i tried Ubuntu server, and debian whit no GUI, then i discovered virtualization (God bless virtualization)
-### I tred Proxmox, then TrueNas, OpenMediaVault
+10/08/2025 EDIT: i got too much desktops  
+
+After a bit of resarch i found that to make a little home server you don't need a so powerful PC, at least to start,
+so firstly i tried Ubuntu server, and debian whit no GUI, then i discovered virtualization (God bless virtualization)
+To this day i tried many homelab and enterprise softweare like: Proxmox, Truenas scale, OMV, Ubuntu Server... and so on, proxmox remaining a pupil of mine,
+matter of facts i recently switched nearly all my server gear to run PVE instard of something bare metal, because i like the enourmous flexibility that comes whit virtualization.
+
+Then, from some not so powerful PC`s found in the trash or got from someone, then i went to a party in Switzerland, where a friend of my father has a company, and practically out of habit i asked if they had some old, spare, computers. They had, spare computers, but they were not old, and oh my god, there was a HPE proliant micro server, a thincentre , HP slimdesk, Acer aspire Desktop and a HP touchsmart, the first three devices now are the main components of my homelab.
