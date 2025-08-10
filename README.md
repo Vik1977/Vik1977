@@ -1,5 +1,5 @@
 ## Hi there 👋
-- Curious from when i was born
+- Curious since when i was born
 - Linux user from 2023
 - Homelabber from 2024
 
