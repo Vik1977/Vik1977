@@ -1,11 +1,14 @@
 ## Hi there 👋
-### First time here on github (2024)
-### I study music🎼 but as a hobby and great passion i explore anything tech👨‍💻 related 
-### Proud linux🐧❤️ user, after i discovered it thanks to the steam deck that i bought 1 year ago
-### After that slowly but constantly i begun converting to it, realizing more and more how windows🪟 has been holding me back
-### Now i run a desktop🖥️ whit Mint and a laptop💻 whit Tumbleweed, but this could change beacouse i am a very courious
-### As a start i think i will be using this repo to document🗃️ all my progress for myself and for anyone who could find it useful
-# Bye (for now) <3
+- Curious from when i was born
+- Linux user from 2023
+- Homelabber from 2024
+
+--------------------------------------
+
+ Proud linux🐧❤️ user, after i discovered it thanks to the steam deck that i bought in 2023.  
+ I study music🎼 but as a hobby and great passion i build my own infrastructure at home, on wich to test various things.  
+ Aiming to achive some decento level of digital indipendance whit those projects.
+
 
 
 <!--
