@@ -9,8 +9,13 @@
  I study music🎼 but as a hobby and great passion i build my own infrastructure at home, on wich to test various things.  
  Aiming to achive some decento level of digital indipendance whit those projects.
 
+## Tools i used so far:
 
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original-wordmark.svg" width="8%" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="8%" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="8%"/>
+          
+                   
+           
 <!--
 **Vik1977/Vik1977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
