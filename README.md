@@ -7,7 +7,7 @@
 
  Proud linux🐧❤️ user, after i discovered it thanks to the steam deck that i bought in 2023.  
  I study music🎼 but as a hobby and great passion i build my own infrastructure at home, on wich to test various things.  
- Aiming to achive some decento level of digital indipendance whit those projects.
+ Aiming to achive some decent level of digital indipendance whit those projects.
 
 ## Tools and distros i used so far:
 
